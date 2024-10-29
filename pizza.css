@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+ }
+ol{
+    font-size: medium;
+}
+.ups{
+    color:#ff6600;
+    margin-bottom:75px ;
+    text-align: center;
+    font-size: 25px;
+}
+.chik{
+    background-color: #ff944d;
+    padding: 20px 10px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.chik ul {
+    list-style-type: none;
+}
+.chik ol, ul{
+    font-size: 25px;
+}
+.chik h2 {
+    padding-left: 50px;
+    font-size: 40px;
+}
+input {
+    font-size:20px;
+    width: 1000px;
+}
+.group label {
+    font-size: 20px;
+    display: block;
+}
+.group input{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    color: black;
+    padding: 15px 0 10px;
+    outline: none;  
+    font-family: inherit;
+}
+.btn{
+    padding: 15px 20px;
+    background-color:#ff6600 ;
+    margin-top: 30px;
+    width: 200px;
+    cursor: pointer;
+}
+.btn:hover{
+    opacity: 2;
+}
